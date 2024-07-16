@@ -28,6 +28,25 @@ Use media queries in your CSS file to make your website responsive.
 •	Device Testing: Check your website on various devices (desktops, tablets, and smartphones) to ensure it’s responsive.
 By following these steps, you should be able to create a simple, responsive multi-page website using HTML and CSS.
 
+#output
+
+![Screenshot 2024-07-15 220531](https://github.com/user-attachments/assets/eba1db39-3241-4295-9954-fb0547ca5b20)
+![Screenshot 2024-07-15 220543](https://github.com/user-attachments/assets/ccc5af3c-a193-42d7-be19-fef3103bae6e)
+![Screenshot 2024-07-15 220614](https://github.com/user-attachments/assets/047ca463-58e3-44b9-a3dc-9f35eb378f84)
+![Screenshot 2024-07-15 220650](https://github.com/user-attachments/assets/ab1e874c-51cf-4d19-9faf-cfe3383084f8)
+![Screenshot 2024-07-15 220700](https://github.com/user-attachments/assets/b822044a-63b5-4195-8478-ef6e350c782b)
+![Screenshot 2024-07-15 220707](https://github.com/user-attachments/assets/179c78cc-2726-407e-ae11-d86af6d93e76)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
