@@ -38,6 +38,12 @@ By following these steps, you should be able to create a simple, responsive mult
 ![Screenshot 2024-07-15 220707](https://github.com/user-attachments/assets/179c78cc-2726-407e-ae11-d86af6d93e76)
 
 
+# Multipage Website - Video Clip:
+
+
+
+
+https://github.com/user-attachments/assets/008e43c1-85cb-42a7-ba88-735a4a7c6551
 
 
 
